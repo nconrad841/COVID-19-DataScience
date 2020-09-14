@@ -4,6 +4,7 @@ ADS_COVID-19
 
 Applied data science on COVID-19 data
 
+Source: https://github.com/nconrad841/COVID-19-DataScience/
 For executing the visualization, run notebooks/Evaluation_Walk_through.ipynb
 
 Project Organization
