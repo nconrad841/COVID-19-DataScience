@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ADS_COVID-19
 ==============================
 
@@ -55,3 +56,7 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# COVID-19-DataScience
+Python visualization of confirmed cases
+>>>>>>> ee1dc064aa0770816d972cd0103ef23142b90c0c
