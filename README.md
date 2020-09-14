@@ -4,6 +4,8 @@ ADS_COVID-19
 
 Applied data science on COVID-19 data
 
+For executing the visualization, run notebooks/Evaluation_Walk_through.ipynb
+
 Project Organization
 ------------
 
